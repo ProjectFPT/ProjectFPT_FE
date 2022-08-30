@@ -1,0 +1,12 @@
+Date,test-rig,test-tag,dut-hw-version,dut-sw-version,dut-model-num,dut-serial-num,test-priority,test-id,short-description,pass/fail,numeric-score,test details,Units,Graph-Group,Subtest-Pass,Subtest-Fail
+1.66057E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.1.1 Receiver Sensitivity Test,FAIL,57.57071547,2.4Ghz passed 0 / 16 Fail-Avg: 14.9 2.4Ghz Failed-by-steps: 239.0 Passed-by-steps: 0.0 5Ghz passed 16 / 16 Pass-Avg: 20.6 5Ghz Failed-by-steps: 0.0 Passed-by-steps: 330.0 ,Score,Score,16,16
+1.66057E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.2.1 Maximum Connection Test (32-STA),FAIL,94.15028419,Throughput: 2.4Ghz UL 105.14% DL 102.72%  Throughput: 5Ghz UL 74.01% DL 96.33%  Passed PER: 120 / 128,Score,Score,120,8
+1.66057E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.2.2 Maximum TCP Throughput Test,FAIL,93.77002233,Throughput 2.4Ghz UL 73.63% DL 130.63%  Throughput 5Ghz UL 84.89% DL 85.93%  ,Score,Score,1,3
+1.66057E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.2.3 Airtime Fairness Test,FAIL,NaN,5Ghz passed 0 / 0 2.4Ghz passed 4 / 7 <i>Candela is not convinced these pass/fail metrics are very helpful.</i>,Score,Score,4,3
+1.66058E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.3.1 Range Versus Rate Test,FAIL,48.19004525,5Ghz UL 11 / 13 DL 11 / 13  2.4Ghz UL 0 / 17 DL 4 / 17 ,Score,Score,26,34
+1.66059E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.3.2 Spatial Consistency Test,FAIL,50,5Ghz passed 10 / 12 2.4Ghz passed 2 / 12 ,Score,Score,12,12
+1.66059E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.4.1 Multiple STAs Performance Test,FAIL,66.66666667,2.4Ghz Passed 4 / 6 5Ghz Passed 4 / 6 ,Score,Score,8,4
+1.66059E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.4.2 Multiple Association /<br>Disassociation Stability Test,FAIL,84.63541667,2.4Ghz Passed 850 / 960 5Ghz Passed 775 / 960 ,Score,Score,1625,295
+1.66059E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.4.3 Downlink MU-MIMO Performance Test,FAIL,85.7436131,Passed: 1 / 3  Single Throughput Sum: 1,,,,
+1.66059E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.5.2 AP Coexistence Test,FAIL,121.2373044,Passed 6 / 8,Score,Score,6,2
+1.66061E+12,,,,VT5.5.20726NK,,38:d5:7a:73:d7:20 ,100,TR_398,6.5.1 Long Term Stability Test,FAIL,95.14563107,2.4Ghz Throughput Avg 123.24 Mbps Passed: 96 / 100  2.4Ghz Packet Error Rate Passed: 0 / 3  5Ghz Throughput Avg 497.46 Mbps Passed: 97 / 100  5Ghz Packet Error Rate Passed: 3 / 3  ,Score,Score,196,10

@@ -1,0 +1,4 @@
+Date,test-rig,test-tag,dut-hw-version,dut-sw-version,dut-model-num,dut-serial-num,test-priority,test-id,short-description,pass/fail,numeric-score,test details,Units,Graph-Group,Subtest-Pass,Subtest-Fail
+1.65786E+12,,,A4:81:7A:C8:30:76,R4.2.23.109-OLDCPU,,,100,TR_398,6.1.1 Receiver Sensitivity Test,FAIL,39.22204214,2.4Ghz passed 0 / 16 Fail-Avg: 16.9 2.4Ghz Failed-by-steps: 271.0 Passed-by-steps: 0.0 5Ghz passed 12 / 16 Fail-Avg: 21.0 Pass-Avg: 19.2 5Ghz Failed-by-steps: 84.0 Passed-by-steps: 230.0 ,Score,Score,12,20
+1.65787E+12,,,A4:81:7A:C8:30:76,R4.2.23.109-OLDCPU,,,100,TR_398,6.3.1 Range Versus Rate Test,FAIL,45.81447964,5Ghz UL 9 / 13 DL 11 / 13  2.4Ghz UL 0 / 17 DL 5 / 17 ,Score,Score,25,35
+1.65788E+12,,,A4:81:7A:C8:30:76,R4.2.23.109-OLDCPU,,,100,TR_398,6.3.2 Spatial Consistency Test,FAIL,58.33333333,5Ghz passed 11 / 12 2.4Ghz passed 3 / 12 ,Score,Score,14,10

@@ -1,0 +1,12 @@
+Date,test-rig,test-tag,dut-hw-version,dut-sw-version,dut-model-num,dut-serial-num,test-priority,test-id,short-description,pass/fail,numeric-score,test details,Units,Graph-Group,Subtest-Pass,Subtest-Fail
+1.65815E+12,,,,FW 078,,,100,TR_398,6.1.1 Receiver Sensitivity Test,FAIL,57,2.4Ghz passed 5 / 16 Fail-Avg: 2.6 Pass-Avg: 1.2 2.4Ghz Failed-by-steps: 29.0 Passed-by-steps: 6.0 5Ghz passed 10 / 16 Fail-Avg: 21.0 Pass-Avg: 20.7 5Ghz Failed-by-steps: 126.0 Passed-by-steps: 207.0 ,Score,Score,15,17
+1.65815E+12,,,,FW 078,,,100,TR_398,6.2.1 Maximum Connection Test (32-STA),PASS,102.9864824,Throughput: 2.4Ghz UL 106.04% DL 106.02%  Throughput: 5Ghz UL 105.94% DL 105.90%  Passed PER: 128 / 128,Score,Score,128,0
+1.65815E+12,,,,FW 078,,,100,TR_398,6.2.2 Maximum TCP Throughput Test,FAIL,72.61261587,Throughput 2.4Ghz UL 98.78% DL 76.73%  Throughput 5Ghz UL 56.95% DL 57.99%  ,Score,Score,0,4
+1.65815E+12,,,,FW 078,,,100,TR_398,6.2.3 Airtime Fairness Test,FAIL,71.42857143,5Ghz passed 5 / 7 2.4Ghz passed 5 / 7 <i>Candela is not convinced these pass/fail metrics are very helpful.</i>,Score,Score,10,4
+1.65816E+12,,,,FW 078,,,100,TR_398,6.3.1 Range Versus Rate Test,FAIL,28.84615385,5Ghz UL 7 / 13 DL 8 / 13  2.4Ghz UL 0 / 17 DL 0 / 17 ,Score,Score,15,45
+1.65817E+12,,,,FW 078,,,100,TR_398,6.3.2 Spatial Consistency Test,FAIL,58.33333333,5Ghz passed 11 / 12 2.4Ghz passed 3 / 12 ,Score,Score,14,10
+1.65817E+12,,,,FW 078,,,100,TR_398,6.4.1 Multiple STAs Performance Test,FAIL,66.66666667,2.4Ghz Passed 6 / 6 5Ghz Passed 2 / 6 ,Score,Score,8,4
+1.65817E+12,,,,FW 078,,,100,TR_398,6.4.2 Multiple Association /<br>Disassociation Stability Test,FAIL,83.80208333,2.4Ghz Passed 960 / 960 5Ghz Passed 649 / 960 ,Score,Score,1609,311
+1.65817E+12,,,,FW 078,,,100,TR_398,6.4.3 Downlink MU-MIMO Performance Test,FAIL,87.51567389,Passed: 2 / 3  Single Throughput Sum: 999.06 Mbps  SU-MIMO Throughput Sum: 299.55 Mbps  MU-MIMO Throughput Sum: 303.43 Mbps,Score,Score,2,1
+1.65817E+12,,,,FW 078,,,100,TR_398,6.5.2 AP Coexistence Test,FAIL,90.49575094,Passed 2 / 8,Score,Score,2,6
+1.65819E+12,,,,FW 078,,,100,TR_398,6.5.1 Long Term Stability Test,FAIL,93.2038835,2.4Ghz Throughput Avg 81.02 Mbps Passed: 92 / 100  2.4Ghz Packet Error Rate Passed: 0 / 3  5Ghz Throughput Avg 457.18 Mbps Passed: 100 / 100  5Ghz Packet Error Rate Passed: 0 / 3  ,Score,Score,192,14
